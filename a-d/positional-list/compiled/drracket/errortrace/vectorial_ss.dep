@@ -1,0 +1,1 @@
+("5.1.1" ("dc7b393356ba4030438cbe79fc89b93f37dfabf5" . "6a3532ae273e42e7cabb85b9a190ea66d14df1e9") (collects #"rnrs" #"base-6.rkt") (collects #"rnrs" #"control-6.rkt") (collects #"rnrs" #"mutable-pairs-6.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"r6rs" #"main.rkt") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"r6rs" #"lang" #"reader.rkt"))
