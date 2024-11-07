@@ -1,0 +1,1 @@
+("8.10" ta6nt ("8646c14699a9db9f9e650ffb448962fdeee38b71" . "6133de80228af8163f341de65d250c0e0a907bfe") (collects #"a-d" #"tree" #"binary-search-tree.rkt") (collects #"r7rs" #"base.rkt") (collects #"r7rs" #"lang" #"reader.rkt") (collects #"r7rs" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))
